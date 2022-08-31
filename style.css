@@ -82,6 +82,9 @@ nav{
     position: sticky;
     top: 0;
     background: white;
+    position: sticky;
+    top: 1px;
+    background-color: white;
 }
 
 
@@ -122,4 +125,14 @@ nav li{
     .more-articles h4 {
         font-family: 'Roboto Slab', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         text-align: left;
+      }
+
+      .footer{
+        background-color:#6d6d6d;
+        padding: 20px 30px;
+        width: 100%;
+        position: fixed;
+        bottom:0;
+        color:white;
+        font-weight: 600;
       }
