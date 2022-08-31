@@ -39,7 +39,7 @@ h2{
 
 
 /* CONTAINER */
-#newspaper-container{
+.newspaper-container{
 
     background:white;
     box-shadow: 1px 1px 5px #ddd;
